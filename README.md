@@ -1,4 +1,4 @@
 # invie
 Las guitarras más locas
 
-http://invie.website
+https://marinopabl0.github.io/invie-platzi/
