@@ -1,3 +1,4 @@
-# invie-platzi
-nuestro proyecto en el curso de git | guthub
-las mejores guitarras en version acusticia
+# invie
+Las guitarras más locas
+
+http://invie.website
