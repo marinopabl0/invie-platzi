@@ -1,0 +1,29 @@
+commit 9cca817a6bef0d03dfd3e819850d730d367f53ac
+Author: Marino Pablo <wilsonpablo9@gmail.com>
+Date:   Wed Feb 6 15:32:58 2019 -0600
+
+    agregando clasica
+
+commit e0a5e8846728eb22b8ca67efadcbdf883238bcc6
+Author: Marino Pablo <wilsonpablo9@gmail.com>
+Date:   Wed Feb 6 15:11:30 2019 -0600
+
+    agregando acustico de nuevo
+
+commit 61e950fabeb7bfceb2a33fe7ca589c788ffafc86
+Author: Marino Pablo <wilsonpablo9@gmail.com>
+Date:   Fri Jan 25 23:16:49 2019 -0600
+
+    agregando nuestro hero
+
+commit 81679655b7e469c112266ae0e2e8e6a109de3ffc
+Author: Marino Pablo <wilsonpablo9@gmail.com>
+Date:   Fri Jan 25 23:13:49 2019 -0600
+
+    agregando nuestro header
+
+commit 863cd7200c1dd2952d5663c12ded7a1df72e1dad
+Author: Marino Pablo <wilsonpablo9@gmail.com>
+Date:   Fri Jan 25 22:54:07 2019 -0600
+
+    inicilizar nuestro landing
